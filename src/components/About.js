@@ -1,4 +1,4 @@
-//Dark Mode Immplementation
+//Dark Mode Immplementation Code
 
 import PropTypes from "prop-types";
 import React, { useState } from "react";
